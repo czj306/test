@@ -1,0 +1,42 @@
+{
+    "zizhanghao_147066226": [
+        {
+            "name": "United States",
+            "id": "ATVPDKIKX0DER",
+            "url": "https://sellercentral.amazon.com/home?mons_sel_dir_mcid=amzn1.merchant.d.AAZV6B7APP5ZUJTUGAIWULIOLBKA&mons_sel_mkid=ATVPDKIKX0DER&mons_sel_dir_paid=amzn1.pa.d.ACQTGY4EYNV2N2PXLYOX7DKFJSRQ",
+            "day": 7
+        },
+        {
+            "name": "Mexico",
+            "id": "A1AM78C64UM0Y8",
+            "url": "https://sellercentral.amazon.com/home?mons_sel_dir_mcid=amzn1.merchant.d.AAZV6B7APP5ZUJTUGAIWULIOLBKA&mons_sel_mkid=A1AM78C64UM0Y8&mons_sel_dir_paid=amzn1.pa.d.ACQTGY4EYNV2N2PXLYOX7DKFJSRQ",
+            "day": 7
+        },
+        {
+            "name": "Canada",
+            "id": "A2EUQ1WTGCTBG2",
+            "url": "https://sellercentral.amazon.com/home?mons_sel_dir_mcid=amzn1.merchant.d.AAZV6B7APP5ZUJTUGAIWULIOLBKA&mons_sel_mkid=A2EUQ1WTGCTBG2&mons_sel_dir_paid=amzn1.pa.d.ACQTGY4EYNV2N2PXLYOX7DKFJSRQ",
+            "day": 7
+        }
+    ],
+    "admin": [
+        {
+            "name": "United 1222",
+            "id": "ATVPDKIKX0DER",
+            "url": "https://sellercentral.amazon.com/home?mons_sel_dir_mcid=amzn1.merchant.d.AAZV6B7APP5ZUJTUGAIWULIOLBKA&mons_sel_mkid=ATVPDKIKX0DER&mons_sel_dir_paid=amzn1.pa.d.ACQTGY4EYNV2N2PXLYOX7DKFJSRQ",
+            "day": 7
+        },
+        {
+            "name": "Mexico1",
+            "id": "A1AM78C64UM0Y8",
+            "url": "https://sellercentral.amazon.com/home?mons_sel_dir_mcid=amzn1.merchant.d.AAZV6B7APP5ZUJTUGAIWULIOLBKA&mons_sel_mkid=A1AM78C64UM0Y8&mons_sel_dir_paid=amzn1.pa.d.ACQTGY4EYNV2N2PXLYOX7DKFJSRQ",
+            "day": 7
+        },
+        {
+            "name": "Canada1",
+            "id": "A2EUQ1WTGCTBG2",
+            "url": "https://sellercentral.amazon.com/home?mons_sel_dir_mcid=amzn1.merchant.d.AAZV6B7APP5ZUJTUGAIWULIOLBKA&mons_sel_mkid=A2EUQ1WTGCTBG2&mons_sel_dir_paid=amzn1.pa.d.ACQTGY4EYNV2N2PXLYOX7DKFJSRQ",
+            "day": 7
+        }
+    ]
+}
